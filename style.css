@@ -1,0 +1,24 @@
+ .heading {
+     display: flex;
+     margin: auto;
+     justify-content: center;
+     padding: 1rem;
+     font-weight: 700;
+     font-style: italic;
+     text-decoration: underline;
+ }
+ .outofstock{
+     color: red;
+     font-weight: 700;
+     
+ }
+ p{
+     padding: 0%!important;
+ }
+
+ .w-22{
+     width: 22%!important;
+ }
+ .card-header{
+     font-weight: 700;
+ }
